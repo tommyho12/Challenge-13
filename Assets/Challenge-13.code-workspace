@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Challenge-13",
+			"path": ".."
+		},
+		{
+			"name": "routes",
+			"path": "../../../class-repo/13-ORM/02-Challenge/Develop/routes"
+		},
+		{
+			"name": "seeds",
+			"path": "../../../class-repo/13-ORM/02-Challenge/Develop/seeds"
+		}
+	],
+	"settings": {}
+}
